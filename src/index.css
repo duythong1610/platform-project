@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Potta One", cursive;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
