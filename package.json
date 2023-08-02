@@ -34,7 +34,8 @@
     "react-redux": "^8.1.1",
     "react-resizable": "^3.0.5",
     "react-router-dom": "^6.14.1",
-    "socket.io-client": "^4.7.0"
+    "socket.io-client": "^4.7.0",
+    "styled-components": "^6.0.6"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
